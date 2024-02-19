@@ -56,7 +56,7 @@ valueBox(value =  dplyr::n_distinct(fermentedfood.new$Category),
          color = 'success'
          )
 ```
-### Ontology groups 
+### Ontological categories
 ```{r}
 valueBox(value = dplyr::n_distinct(fermentedfood.new$Raw_material_ontology),
          icon = "fas fa-seedling",
@@ -97,7 +97,7 @@ fermentedfood.joined <- left_join(country.table, fermentedfood.agg, by = 'alpha.
 map$total_count <-fermentedfood.joined[match(map$ISO3, fermentedfood.joined$alpha.3),"total_count"]
 # palete of colors
 pal <- colorBin(palette = 'viridis', domain = map$total_count,
-                bins = seq(0, max(map$total_count, na.rm = TRUE) +15, by = 2))
+                bins = seq(0, max(map$total_count, na.rm = TRUE) +15, by = 10))
 
 
 map$labels <- paste0("<strong> Country: </strong> ", map$NAME, "<br/> ",
@@ -210,7 +210,6 @@ df_ontology %>%
 Data {data-orientation=rows}
 ===================================== 
 
-
 ```{r}
 fermentedfood.new %>%
           select("Continent","Region",'Subregion',"Country","Category","Product","Original_Name",
@@ -319,7 +318,7 @@ The code behind this dashboard is available on [Github](https://github.com/bokul
 
 * Salome Häcki (ETH Zurich, Switzerland)
 
-* Joan Oñate Narciso (Universitat de Lleida, Spain)
+* Joan Oñate Narciso (Université de Lleida, Spain)
 
 * Theresa Abimbola Awotundun (Ajayi Crowther University, Nigeria)
 
