@@ -1,5 +1,7 @@
 ---
 title: "FermDB"
+runtime: shiny
+
 output: 
   flexdashboard::flex_dashboard:
 
@@ -21,6 +23,7 @@ output:
 library(flexdashboard)
 library(dplyr)
 library(DT)
+library(shiny)
 library(plotly)
 library(leaflet)
 library(rnaturalearth)
@@ -237,6 +240,12 @@ datatable(colnames = c("Continent","Region",'Subregion',"Country","Category","Pr
 ```
 
 
+IFRAME
+=======================================================================
+```{r}
+tags$iframe(style="height:600px; width:100%; scrolling=yes", src="dendogram.html")
+```
+
 
 
 About {data-orientation=rows}
@@ -328,4 +337,6 @@ The code behind this dashboard is available on [Github](https://github.com/bokul
 * Wilfrid Padonou (Unviersité Nationale d’Agriculture, Benin)
 
 * Sengchanh Kounnavong (Lao Tropical & Public Health Institute, Lao PDR)
+
+
 
