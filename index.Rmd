@@ -34,7 +34,7 @@ fermentedfood.new <- read_excel("Fermented_food2.xlsx", .name_repair = function(
 
 fermentedfood.flat <- separate_longer_delim(fermentedfood.new,c(Country,Country_code),delim = ',')
 fermentedfood.flat$Country_code <- as.integer(fermentedfood.flat$Country_code)
-
+print(fermentedfood.flat)
 ```
 
 Map {data-orientation=rows}
@@ -66,7 +66,7 @@ valueBox(value = dplyr::n_distinct(fermentedfood.new$Raw_material_ontology),
 
 ### Country
 ```{r}
-valueBox(value = dplyr::n_distinct(fermentedfood.flat$Country),
+valueBox(value = dplyr::n_distinct(fermentedfood.flat$Country_code),
          icon = "fas fa-globe", 
         )
 ```
