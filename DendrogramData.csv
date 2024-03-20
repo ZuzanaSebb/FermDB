@@ -1,0 +1,1109 @@
+,combined
+0,Afghanistan
+1,Albania
+2,Algeria
+3,Armenia
+4,Austria
+5,Azerbaijan
+6,Bangladesh
+7,Belarus
+8,Belgium
+9,Benin
+10,Bhutan
+11,Bolivia
+12,Bosnia
+13,Bosnia and Herzegovina
+14,Botswana
+15,Brazil
+16,Bulgaria
+17,Burkina Faso
+18,Burundi
+19,Cambodia
+20,Cameroon
+21,Canada
+22,Chile
+23,China
+24,Colombia
+25,Congo
+26,Croatia
+27,Cyprus
+28,Czechia
+29,Côte d'Ivoire
+30,Côte d’Ivoire
+31,Denmark
+32,Ecuador
+33,Egypt
+34,El Salvador
+35,Eritrea
+36,Estonia
+37,Ethiopia
+38,Fiji
+39,Finland
+40,France
+41,Georgia
+42,Germany
+43,Ghana
+44,Global
+45,Greece
+46,Greenland
+47,Guyana
+48,Haiti
+49,Hungary
+50,Iceland
+51,India
+52,Indonesia
+53,Iran
+54,Iraq
+55,Ireland
+56,Italy
+57,Jamaica
+58,Japan
+59,Kazakhstan
+60,Kenya
+61,Korea
+62,Latvia
+63,Lebanon
+64,Lichtenstein
+65,Lithuania
+66,Macedonia
+67,Malaysia
+68,Mali
+69,Malta
+70,Mauritius
+71,Mexico
+72,Mongolia
+73,Montenegro
+74,Myanmar
+75,Nepal
+76,Netherlands
+77,Niger
+78,Nigeria
+79,North Macedonia
+80,Norway
+81,Pakistan
+82,Peru
+83,Philippines
+84,Poland
+85,Portugal
+86,Republic of Korea
+87,Republic of Moldova
+88,Romania
+89,Russian Federation
+90,Senegal
+91,Serbia
+92,Singapore
+93,Slovakia
+94,Slovenia
+95,Somalia
+96,South Africa
+97,Spain
+98,Sri Lanka
+99,Sweden
+100,Switzerland
+101,Syrian Arab Republic
+102,Thailand
+103,Togo
+104,Tunisia
+105,Turkmenistan
+106,Türkiye
+107,UK
+108,USA
+109,Ukraine
+110,United States of America
+111,Uruguay
+112,Uzbekistan
+113,Zambia
+114,nan
+0,Afghanistan.dairy product
+1,Afghanistan.fermented cereal
+2,Albania.cheese
+3,Albania.fermented fish
+4,Algeria.fermented cereal
+5,Armenia.cheese
+6,Austria.alcoholic beverage
+7,Austria.cheese
+8,Austria.fermented meat
+9,Austria.wine
+10,Azerbaijan.dairy product
+11,Azerbaijan.fermented cereal
+12,Bangladesh.cheese
+13,Bangladesh.dairy product
+14,Bangladesh.fermented cereal
+15,Bangladesh.fermented fish
+16,Bangladesh.yogurt
+17,Belarus.dairy product
+18,Belgium.beer
+19,Belgium.cheese
+20,Benin.Alcoholic beverage
+21,Benin.alcoholic beverage
+22,Benin.condiment
+23,Benin.fermented cereal
+24,Benin.fermented fish
+25,Benin.fermented roots
+26,Bhutan.alcoholic beverage
+27,Bhutan.cheese
+28,Bhutan.dairy product
+29,Bhutan.fermented legumes
+30,Bhutan.fermented meat
+31,Bhutan.fermented vegetables
+32,Bolivia.fermented meat
+33,Bosnia.fermented vegetables
+34,Bosnia and Herzegovina.dairy product
+35,Bosnia and Herzegovina.fermented fish
+36,Botswana.fermented cereal
+37,Brazil.cheese
+38,Brazil.fermented cereal
+39,Bulgaria.cheese
+40,Bulgaria.fermented fish
+41,Bulgaria.fermented vegetables
+42,Bulgaria.yogurt
+43,Burkina Faso.condiment
+44,Burkina Faso.fermented cereal
+45,Burkina Faso.fermented legumes
+46,Burkina Faso.yogurt
+47,Burundi.alcoholic beverage
+48,Burundi.dairy product
+49,Burundi.fermented roots
+50,Cambodia.fermented fish
+51,Cameroon.fermented roots
+52,Canada.wine
+53,Chile.fermented fruit
+54,Chile.fermented meat
+55,China.alcoholic beverage
+56,China.cheese
+57,China.dairy product
+58,China.fermented cereal
+59,China.fermented legumes
+60,China.fermented meat
+61,China.fermented vegetables
+62,Colombia.alcoholic beverage
+63,Congo.fermented cereal
+64,Congo.fermented roots
+65,Croatia.cheese
+66,Croatia.fermented vegetables
+67,Cyprus.cheese
+68,Cyprus.fermented cereal
+69,Czechia.cheese
+70,Czechia.dairy product
+71,Côte d'Ivoire.fermented cereal
+72,Côte d’Ivoire.alcoholic beverage
+73,Côte d’Ivoire.fermented roots
+74,Denmark.cheese
+75,Ecuador.fermented cereal
+76,Egypt.alcoholic beverage
+77,Egypt.beer
+78,Egypt.dairy product
+79,Egypt.fermented cereal
+80,Egypt.fermented fish
+81,El Salvador.fermented vegetables
+82,Eritrea.alcoholic beverage
+83,Eritrea.fermented cereal
+84,Estonia.fermented cereal
+85,Ethiopia.alcoholic beverage
+86,Ethiopia.beer
+87,Ethiopia.fermented cereal
+88,Ethiopia.fermented vegetables
+89,Ethiopia.yogurt
+90,Fiji.fermented cereal
+91,Finland.alcoholic beverage
+92,Finland.beer
+93,Finland.cheese
+94,Finland.dairy product
+95,Finland.yogurt
+96,France.alcoholic beverage
+97,France.cheese
+98,France.dairy product
+99,France.wine
+100,Georgia.cheese
+101,Georgia.dairy product
+102,Germany.cheese
+103,Germany.fermented cereal
+104,Germany.fermented meat
+105,Germany.fermented vegetables
+106,Germany.wine
+107,Ghana.Alcoholic beverage
+108,Ghana.beer
+109,Ghana.fermented cereal
+110,Ghana.fermented legumes
+111,Ghana.fermented roots
+112,Ghana.yogurt
+113,Global.dairy product
+114,Greece.cheese
+115,Greece.dairy product
+116,Greece.fermented cereal
+117,Greece.fermented fruit
+118,Greenland.fermented fish
+119,Greenland.fermented meat
+120,Guyana.fermented cereal
+121,Haiti.fermented vegetables
+122,Hungary.cheese
+123,Hungary.fermented meat
+124,Hungary.wine
+125,Iceland.alcoholic beverage
+126,Iceland.fermented fish
+127,Iceland.fermented meat
+128,Iceland.yogurt
+129,India.alcoholic beverage
+130,India.cheese
+131,India.dairy product
+132,India.fermented cereal
+133,India.fermented fish
+134,India.fermented legumes
+135,India.fermented meat
+136,India.fermented vegetables
+137,India.yogurt
+138,Indonesia.alcoholic beverage
+139,Indonesia.dairy product
+140,Indonesia.fermented cereal
+141,Indonesia.fermented fish
+142,Indonesia.fermented fruit
+143,Indonesia.fermented legumes
+144,Indonesia.fermented meat
+145,Indonesia.fermented roots
+146,Indonesia.fermented vegetables
+147,Indonesia.other
+148,Iran.cheese
+149,Iran.dairy product
+150,Iran.fermented cereal
+151,Iraq.dairy product
+152,Iraq.fermented cereal
+153,Ireland.alcoholic beverage
+154,Ireland.cheese
+155,Italy.cheese
+156,Italy.condiment
+157,Italy.fermented cereal
+158,Italy.fermented fish
+159,Italy.fermented fruit
+160,Italy.fermented meat
+161,Italy.wine
+162,Jamaica.fermented cereal
+163,Japan.alcoholic beverage
+164,Japan.fermented cereal
+165,Japan.fermented fish
+166,Japan.fermented legumes
+167,Japan.fermented vegetables
+168,Kazakhstan.dairy product
+169,Kenya.beer
+170,Kenya.dairy product
+171,Korea.alcoholic beverage
+172,Korea.fermented cereal
+173,Korea.fermented fish
+174,Korea.fermented legumes
+175,Korea.fermented vegetables
+176,Latvia.fermented cereal
+177,Lebanon.dairy product
+178,Lichtenstein.cheese
+179,Lithuania.cheese
+180,Macedonia.fermented vegetables
+181,Malaysia.alcoholic beverage
+182,Malaysia.fermented fruit
+183,Malaysia.fermented vegetables
+184,Mali.fermented legumes
+185,Malta.fermented cereal
+186,Mauritius.fermented cereal
+187,Mexico.alcoholic beverage
+188,Mexico.cheese
+189,Mexico.fermented fruit
+190,Mongolia.dairy product
+191,Montenegro.dairy product
+192,Myanmar.fermented vegetables
+193,Nepal.alcoholic beverage
+194,Nepal.cheese
+195,Nepal.dairy product
+196,Nepal.fermented cereal
+197,Nepal.fermented legumes
+198,Nepal.fermented meat
+199,Nepal.fermented vegetables
+200,Nepal.yogurt
+201,Netherlands.cheese
+202,Niger.fermented meat
+203,Nigeria.Alcoholic beverage
+204,Nigeria.alcoholic beverage
+205,Nigeria.beer
+206,Nigeria.cheese
+207,Nigeria.condiment
+208,Nigeria.dairy product
+209,Nigeria.fermented cereal
+210,Nigeria.fermented legumes
+211,Nigeria.fermented meat
+212,Nigeria.fermented roots
+213,Nigeria.fermented vegetables
+214,Nigeria.yogurt
+215,North Macedonia.cheese
+216,North Macedonia.dairy product
+217,North Macedonia.fermented fish
+218,Norway.alcoholic beverage
+219,Norway.cheese
+220,Norway.fermented fish
+221,Pakistan.cheese
+222,Pakistan.dairy product
+223,Pakistan.fermented cereal
+224,Pakistan.yogurt
+225,Peru.fermented fruit
+226,Peru.fermented meat
+227,Peru.fermented roots
+228,Philippines.alcoholic beverage
+229,Philippines.fermented cereal
+230,Philippines.fermented fish
+231,Philippines.fermented fruit
+232,Philippines.fermented meat
+233,Philippines.fermented roots
+234,Philippines.fermented vegetables
+235,Poland.cheese
+236,Poland.dairy product
+237,Poland.fermented cereal
+238,Poland.fermented meat
+239,Portugal.cheese
+240,Portugal.fermented fruit
+241,Portugal.fermented meat
+242,Portugal.wine
+243,Republic of Korea.fermented vegetables
+244,Republic of Moldova.cheese
+245,Romania.cheese
+246,Romania.fermented cereal
+247,Romania.fermented fish
+248,Russian Federation.cheese
+249,Russian Federation.dairy product
+250,Russian Federation.fermented cereal
+251,Senegal.fermented fish
+252,Serbia.cheese
+253,Serbia.dairy product
+254,Serbia.fermented fish
+255,Serbia.fermented vegetables
+256,Singapore.fermented vegetables
+257,Slovakia.cheese
+258,Slovakia.dairy product
+259,Slovenia.alcoholic beverage
+260,Slovenia.dairy product
+261,Somalia.fermented cereal
+262,South Africa.fermented cereal
+263,Spain.alcoholic beverage
+264,Spain.cheese
+265,Spain.fermented fruit
+266,Spain.wine
+267,Sri Lanka.fermented cereal
+268,Sri Lanka.yogurt
+269,Sweden.cheese
+270,Sweden.yogurt
+271,Switzerland.cheese
+272,Switzerland.fermented meat
+273,Syrian Arab Republic.dairy product
+274,Syrian Arab Republic.fermented cereal
+275,Thailand.fermented vegetables
+276,Togo.fermented cereal
+277,Togo.fermented roots
+278,Tunisia.fermented cereal
+279,Turkmenistan.dairy product
+280,Türkiye.cheese
+281,Türkiye.dairy product
+282,Türkiye.fermented cereal
+283,UK.alcoholic beverage
+284,UK.cheese
+285,UK.fermented cereal
+286,USA.fermented fish
+287,USA.fermented fruit
+288,Ukraine.cheese
+289,Ukraine.dairy product
+290,United States of America.cheese
+291,United States of America.fermented meat
+292,United States of America.fermented vegetables
+293,Uruguay.cheese
+294,Uzbekistan.dairy product
+295,Zambia.fermented cereal
+296,nan.acid beverage
+297,nan.alcoholic beverage
+298,nan.fermented fruit
+299,nan.fermented legumes
+300,nan.wine
+301,nan.yogurt
+0,"Afghanistan.dairy product.Kaymak, Kajmak, Kaimak, Gemagh, Geymar"
+1,Afghanistan.fermented cereal.Jalebi
+2,Albania.cheese.Kashkaval
+3,"Albania.cheese.Urdha, Urda, Vurda, Orda, Izvara, Zsendice"
+4,Albania.fermented fish.Fesikh
+5,Algeria.fermented cereal.Jalebi
+6,"Armenia.cheese.Motal Paniri, Panire Khiki, Panire Pousti"
+7,Austria.alcoholic beverage.Krautinger
+8,Austria.cheese.Bregenzerwalder Mountain Cheese
+9,Austria.cheese.Ennstaler Steirerkas
+10,Austria.cheese.Glundner cheese
+11,Austria.cheese.Montafoner Suure Kees
+12,Austria.cheese.Tiroler Graukase
+13,Austria.fermented meat.Speck
+14,Austria.wine.Eiswein
+15,Austria.wine.Schilfwein
+16,Austria.wine.Spaetlese
+17,Austria.wine.Trockenbeerenauslese
+18,"Azerbaijan.dairy product.Kaymak, Kajmak, Kaimak, Gemagh, Geymar"
+19,Azerbaijan.fermented cereal.Jalebi
+20,Bangladesh.cheese.Paneer
+21,"Bangladesh.dairy product.Misti dahi, Mishti doi, Lal dahi, Payodhi"
+22,Bangladesh.fermented cereal.Jalebi
+23,"Bangladesh.fermented cereal.Papadam, Papadum, Papad"
+24,Bangladesh.fermented cereal.Thumba
+25,Bangladesh.fermented fish.Shidal
+26,Bangladesh.yogurt.Dahi
+27,Belarus.dairy product.Ryazhenka
+28,Belgium.beer.Lambic beer
+29,Belgium.cheese.Herve
+30,Belgium.cheese.Pas de Rouge
+31,Benin.Alcoholic beverage.Burukutu
+32,Benin.alcoholic beverage.Gowe
+33,Benin.alcoholic beverage.Tchoukoutou
+34,Benin.condiment.Afitin
+35,Benin.fermented cereal.Kenkey
+36,Benin.fermented cereal.Mawè
+37,Benin.fermented cereal.Ogi
+38,Benin.fermented fish.Lanhouin
+39,Benin.fermented roots.Agbelima
+40,Benin.fermented roots.Lafun
+41,Bhutan.alcoholic beverage.Arrak
+42,Bhutan.alcoholic beverage.Bhaati jaanr
+43,Bhutan.alcoholic beverage.Chhaang
+44,Bhutan.alcoholic beverage.Kodo ko jaanr
+45,"Bhutan.cheese.Chhu, Sheden"
+46,Bhutan.cheese.Chhurpi
+47,Bhutan.cheese.Dudh churpi
+48,"Bhutan.dairy product.Pheuja, Suja"
+49,Bhutan.fermented legumes.Kinema
+50,Bhutan.fermented meat.Chilu
+51,Bhutan.fermented meat.Faak kargyong
+52,Bhutan.fermented meat.Kheuri
+53,Bhutan.fermented meat.Lang kargyong
+54,Bhutan.fermented vegetables.Khalpi
+55,Bhutan.fermented vegetables.Mesu
+56,Bhutan.fermented vegetables.Sinki
+57,Bolivia.fermented meat.Ch'arki
+58,Bosnia.fermented vegetables.Sour cabbage
+59,"Bosnia and Herzegovina.dairy product.Kaymak, Kajmak, Kaimak, Gemagh, Geymar"
+60,Bosnia and Herzegovina.fermented fish.Fesikh
+61,Botswana.fermented cereal.Bogobe
+62,Botswana.fermented cereal.Ting
+63,Brazil.cheese.Queijo minas
+64,Brazil.cheese.Requeson
+65,Brazil.fermented cereal.Jamin-bang
+66,Bulgaria.cheese.Cherni Vit Green Cheese
+67,Bulgaria.cheese.Kashkaval
+68,Bulgaria.cheese.Sirene
+69,"Bulgaria.cheese.Urdha, Urda, Vurda, Orda, Izvara, Zsendice"
+70,Bulgaria.fermented fish.Fesikh
+71,Bulgaria.fermented vegetables.Sour cabbage
+72,Bulgaria.yogurt.Bulgarian yoghurt
+73,Burkina Faso.condiment.Maari
+74,Burkina Faso.fermented cereal.Ben-saalga
+75,Burkina Faso.fermented legumes.Bikalga
+76,Burkina Faso.fermented legumes.Soumbala
+77,"Burkina Faso.fermented legumes.Sumbala, Soumbala"
+78,Burkina Faso.yogurt.Nunu
+79,Burundi.alcoholic beverage.Impeke
+80,Burundi.alcoholic beverage.Isongo
+81,Burundi.alcoholic beverage.Urwarwa
+82,Burundi.dairy product.Amateregua
+83,Burundi.dairy product.Amavuta
+84,Burundi.dairy product.Urubu
+85,Burundi.fermented roots.Ikivunde
+86,Burundi.fermented roots.Imikembe
+87,Burundi.fermented roots.Inyange
+88,Cambodia.fermented fish.Prahok
+89,Cameroon.fermented roots.Kumkum
+90,Canada.wine.Icewine
+91,Chile.fermented fruit.Olives
+92,Chile.fermented meat.Ch'arki
+93,China.alcoholic beverage.Arrak
+94,China.alcoholic beverage.Baijiu
+95,China.alcoholic beverage.Chhaang
+96,"China.alcoholic beverage.Chhaang, Chhyang, Lugri"
+97,China.alcoholic beverage.Choujiu
+98,China.alcoholic beverage.Huangjiu
+99,China.alcoholic beverage.Kodo ko jaanr
+100,China.alcoholic beverage.Lychee wine
+101,China.alcoholic beverage.Shaoxing-jiu
+102,"China.cheese.Chhu, Sheden"
+103,China.cheese.Chhurpi
+104,China.dairy product.Koumiss
+105,China.dairy product.Kumis
+106,China.dairy product.Philu
+107,China.fermented cereal.Angkak
+108,China.fermented cereal.Chee-fan
+109,China.fermented cereal.Lao-chao
+110,China.fermented cereal.Mantou
+111,China.fermented cereal.Minchin
+112,China.fermented legumes.Doubanjiang
+113,China.fermented legumes.Douzhi
+114,China.fermented legumes.Furu
+115,China.fermented legumes.Meitauza
+116,China.fermented legumes.Miso
+117,China.fermented legumes.Stinky tofu
+118,China.fermented legumes.Tauco
+119,China.fermented legumes.Tianmianjiang
+120,China.fermented legumes.Yandou
+121,China.fermented meat.Bak kwa
+122,China.fermented meat.Chilu
+123,China.fermented meat.Faak kargyong
+124,China.fermented meat.Kheuri
+125,China.fermented meat.Lang kargyong
+126,China.fermented vegetables.Chinese pickles
+127,"China.fermented vegetables.Fermented Tea, Dark Tea"
+128,China.fermented vegetables.Meigan cai
+129,China.fermented vegetables.Pao cai
+130,China.fermented vegetables.Suan-cai
+131,China.fermented vegetables.Suancha
+132,China.fermented vegetables.Yongfeng chili sauce
+133,China.fermented vegetables.Zha cai
+134,Colombia.alcoholic beverage.Colombian Champus
+135,Congo.fermented cereal.Munkoyo
+136,Congo.fermented cereal.Poto poto
+137,Congo.fermented roots.Chikwangue
+138,Croatia.cheese.Pag Island Cheese
+139,Croatia.fermented vegetables.Sour cabbage
+140,Cyprus.cheese.Anari
+141,Cyprus.cheese.Halloumi
+142,Cyprus.cheese.Kefalotyri
+143,Cyprus.fermented cereal.Arkatena
+144,Czechia.cheese.Olomouc cheese
+145,Czechia.dairy product.Zincica
+146,Côte d'Ivoire.fermented cereal.Kenkey
+147,Côte d’Ivoire.alcoholic beverage.Tuba
+148,Côte d’Ivoire.fermented roots.Attieke
+149,Côte d’Ivoire.fermented roots.Placali
+150,Denmark.cheese.Dana Blu
+151,Ecuador.fermented cereal.Sierra rice
+152,Egypt.alcoholic beverage.Kishk
+153,Egypt.beer.Bouza
+154,Egypt.dairy product.Laban rayeb
+155,Egypt.fermented cereal.Boza
+156,Egypt.fermented cereal.Egyptian Kishk
+157,Egypt.fermented cereal.Jalebi
+158,Egypt.fermented fish.Fesikh
+159,El Salvador.fermented vegetables.Curtido
+160,Eritrea.alcoholic beverage.Tej
+161,Eritrea.fermented cereal.Injera
+162,Estonia.fermented cereal.Kvass
+163,Estonia.fermented cereal.Rukkileib
+164,Ethiopia.alcoholic beverage.Tej
+165,Ethiopia.beer.Tella
+166,Ethiopia.fermented cereal.Injera
+167,Ethiopia.fermented cereal.Jalebi
+168,Ethiopia.fermented vegetables.kocho
+169,Ethiopia.yogurt.Ergo
+170,Fiji.fermented cereal.Jalebi
+171,Finland.alcoholic beverage.Sima
+172,Finland.beer.Sahti
+173,Finland.cheese.Juustoleipä
+174,Finland.dairy product.Piima
+175,Finland.yogurt.Viili
+176,France.alcoholic beverage.Cider
+177,France.cheese.Angelot
+178,France.cheese.Banon
+179,France.cheese.Basque Pyrenees Mountain Cheeses
+180,France.cheese.Beaufort
+181,France.cheese.Bleu d'Auvergne
+182,France.cheese.Bleu de Termignon
+183,France.cheese.Brie
+184,France.cheese.Camembert
+185,France.cheese.Cantal
+186,France.cheese.Carre de l'est
+187,France.cheese.Comte
+188,France.cheese.Demi-sel
+189,France.cheese.Epoisses de Bourgogne
+190,France.cheese.Faisselle
+191,France.cheese.Fourme d'Ambert
+192,France.cheese.Fourme de Montbrison
+193,France.cheese.Laguiole
+194,France.cheese.Langres
+195,France.cheese.Mimolette (Boule de Lille)
+196,France.cheese.Munster
+197,France.cheese.Picodon
+198,France.cheese.Poligny Saint Pierre
+199,France.cheese.Pont-l'Évêque
+200,France.cheese.Port Salut
+201,France.cheese.Reblochon
+202,France.cheese.Roquefort
+203,France.cheese.Saint-Nectaire
+204,France.cheese.Saint-Paulin
+205,France.cheese.Sainte-Maure de Touraine
+206,France.cheese.Selles-sur-Cher
+207,France.cheese.Tomme de Savoie
+208,France.cheese.Vacherin Mont-d'Or
+209,France.dairy product.Creme fraiche
+210,France.wine.Champagner
+211,France.wine.Floc de Gascogne
+212,France.wine.Maury
+213,France.wine.Monbazillac
+214,France.wine.Sauternes
+215,Georgia.cheese.Sulguni
+216,"Georgia.dairy product.Kaymak, Kajmak, Kaimak, Gemagh, Geymar"
+217,Germany.cheese.Milbenkase
+218,Germany.fermented cereal.Christstollen
+219,Germany.fermented cereal.Lebkuchen
+220,Germany.fermented meat.Mettwurst
+221,Germany.fermented meat.Northern Hesse Ahle Wurscht
+222,Germany.fermented meat.Teewurst
+223,Germany.fermented vegetables.Sauerkraut
+224,Germany.wine.Eiswein
+225,Germany.wine.Spaetlese
+226,Germany.wine.Trockenbeerenauslese
+227,Ghana.Alcoholic beverage.Burukutu
+228,Ghana.beer.Pito
+229,Ghana.fermented cereal.Banku
+230,Ghana.fermented cereal.Kenkey
+231,Ghana.fermented cereal.Koko
+232,Ghana.fermented cereal.Ogi
+233,Ghana.fermented legumes.Dawadawa
+234,Ghana.fermented roots.Agbelima
+235,Ghana.fermented roots.Lafun
+236,Ghana.yogurt.Nunu
+237,Global.dairy product.Buttermilk
+238,Greece.cheese.Feta
+239,Greece.cheese.Graviera Agrafon
+240,Greece.cheese.Graviera Kritis
+241,Greece.cheese.Graviera Naxou
+242,Greece.cheese.Kasseri
+243,Greece.cheese.Kefalotyri
+244,Greece.cheese.Kopanisti
+245,"Greece.cheese.Manouri, Anthotyros, Mizithra"
+246,"Greece.dairy product.Kaymak, Kajmak, Kaimak, Gemagh, Geymar"
+247,Greece.fermented cereal.Eftazyma
+248,Greece.fermented cereal.Trahana
+249,Greece.fermented fruit.Olives
+250,Greenland.fermented fish.Igunaq
+251,Greenland.fermented meat.Kiviak
+252,Guyana.fermented cereal.Kenkey
+253,Haiti.fermented vegetables.Pikliz
+254,"Hungary.cheese.Urdha, Urda, Vurda, Orda, Izvara, Zsendice"
+255,Hungary.fermented meat.Winter salami
+256,"Hungary.wine.Tokaji, Tokaj"
+257,Iceland.alcoholic beverage.Blaand
+258,Iceland.fermented fish.Hakarl
+259,Iceland.fermented fish.Kaest skata
+260,Iceland.yogurt.Skyr
+261,India.alcoholic beverage.Arrak
+262,India.alcoholic beverage.Atingba
+263,India.alcoholic beverage.Bhaati jaanr
+264,India.alcoholic beverage.Bhangchang
+265,India.alcoholic beverage.Chhaang
+266,"India.alcoholic beverage.Chhaang, Chhyang, Lugri"
+267,India.alcoholic beverage.Chulli
+268,India.alcoholic beverage.Daru
+269,India.alcoholic beverage.Ennog
+270,India.alcoholic beverage.Faapar ko jaanr
+271,India.alcoholic beverage.Feni
+272,"India.alcoholic beverage.Gahoon ko jaanr, Gahun ko jaanr"
+273,"India.alcoholic beverage.Jao ko jaanr, Jaun ko jaanr"
+274,India.alcoholic beverage.Jou
+275,India.alcoholic beverage.Kodo ko jaanr
+276,India.alcoholic beverage.Lohpani
+277,India.alcoholic beverage.Makai ko jaanr
+278,India.alcoholic beverage.Mingiri
+279,India.alcoholic beverage.Nareli
+280,India.alcoholic beverage.Nchiangne
+281,India.alcoholic beverage.Pona
+282,India.alcoholic beverage.Poro Apong
+283,India.alcoholic beverage.Raksi
+284,India.alcoholic beverage.Ruhi
+285,India.alcoholic beverage.Simal tarul ko jaanr
+286,India.alcoholic beverage.Sing sing
+287,India.alcoholic beverage.Sura
+288,India.alcoholic beverage.Tari
+289,India.alcoholic beverage.Themsing
+290,India.alcoholic beverage.Yu
+291,India.alcoholic beverage.Zu
+292,"India.alcoholic beverage.Zutho, Zhuchu"
+293,"India.cheese.Chhu, Sheden"
+294,India.cheese.Chhurpi
+295,India.cheese.Dudh churpi
+296,"India.cheese.Kalari, Kradi"
+297,India.cheese.Paneer
+298,India.dairy product.Chaas
+299,"India.dairy product.Ghee, Gheu"
+300,"India.dairy product.Misti dahi, Mishti doi, Lal dahi, Payodhi"
+301,"India.dairy product.Pheuja, Suja"
+302,India.dairy product.Philu
+303,India.dairy product.Phrung
+304,India.dairy product.Shrikhand
+305,India.dairy product.Somar
+306,"India.fermented cereal.Aakhone, Axone"
+307,India.fermented cereal.Adai
+308,India.fermented cereal.Anarshe
+309,India.fermented cereal.Appam
+310,India.fermented cereal.Bhattejaanr
+311,India.fermented cereal.Chakuli pitha
+312,India.fermented cereal.Dosa
+313,India.fermented cereal.Enduri Pitha
+314,India.fermented cereal.Handawa
+315,India.fermented cereal.Idli
+316,India.fermented cereal.Jalebi
+317,India.fermented cereal.Kanji
+318,India.fermented cereal.Khaman
+319,India.fermented cereal.Kurdi
+320,"India.fermented cereal.Papadam, Papadum, Papad"
+321,India.fermented cereal.Selroti
+322,India.fermented cereal.Taotjo
+323,India.fermented cereal.Torani
+324,India.fermented fish.Bordia
+325,India.fermented fish.Gnuchi
+326,India.fermented fish.Hentak
+327,India.fermented fish.Karati
+328,India.fermented fish.Lashim
+329,India.fermented fish.Ngari
+330,India.fermented fish.Shidal
+331,India.fermented fish.Suka ko maacha
+332,India.fermented fish.Sukuti
+333,India.fermented fish.Tungtap
+334,India.fermented legumes.Bekang
+335,India.fermented legumes.Dhokla
+336,India.fermented legumes.Hawaijar
+337,India.fermented legumes.Kinema
+338,India.fermented legumes.Tungrymbai
+339,India.fermented legumes.Vada
+340,India.fermented meat.Arjia
+341,India.fermented meat.Chartayshya
+342,India.fermented meat.Chilu
+343,India.fermented meat.Faak kargyong
+344,"India.fermented meat.Jamma, Geema"
+345,India.fermented meat.Kheuri
+346,India.fermented meat.Lang kargyong
+347,India.fermented meat.Suka ko masu
+348,India.fermented meat.Sukakomasu
+349,India.fermented meat.Yak Kargyong
+350,India.fermented vegetables.Anishi
+351,"India.fermented vegetables.Bastanga, Ekung, Eup, Soijim, Soibum"
+352,India.fermented vegetables.Ekung
+353,India.fermented vegetables.Goyang
+354,India.fermented vegetables.Hirring
+355,"India.fermented vegetables.Inziangsang, Inziangdui"
+356,India.fermented vegetables.Khalpi
+357,India.fermented vegetables.Lung-siej
+358,India.fermented vegetables.Mesu
+359,India.fermented vegetables.Sinki
+360,India.fermented vegetables.Soidon
+361,India.fermented vegetables.Tuaithur
+362,India.yogurt.Dahi
+363,India.yogurt.Lassi
+364,Indonesia.alcoholic beverage.Tapai
+365,Indonesia.dairy product.Dadih
+366,Indonesia.fermented cereal.Brem
+367,Indonesia.fermented cereal.Kecap
+368,Indonesia.fermented cereal.Lao-chao
+369,Indonesia.fermented cereal.Tempeh
+370,Indonesia.fermented fish.Bakasang
+371,Indonesia.fermented fish.Ikan Peda
+372,Indonesia.fermented fish.Patis
+373,Indonesia.fermented fish.Pedah
+374,Indonesia.fermented fish.Terasi
+375,Indonesia.fermented fruit.Mandai
+376,Indonesia.fermented fruit.Tempoyak
+377,Indonesia.fermented legumes.Oncom
+378,Indonesia.fermented legumes.Tauco
+379,Indonesia.fermented meat.Urutan
+380,Indonesia.fermented roots.Gatot
+381,Indonesia.fermented roots.Growol
+382,Indonesia.fermented vegetables.Acar
+383,Indonesia.fermented vegetables.Sayur asin
+384,Indonesia.other.Telur Asin
+385,Iran.cheese.Lor
+386,Iran.dairy product.Doogh
+387,"Iran.dairy product.Kaymak, Kajmak, Kaimak, Gemagh, Geymar"
+388,Iran.fermented cereal.Jalebi
+389,"Iraq.dairy product.Kaymak, Kajmak, Kaimak, Gemagh, Geymar"
+390,Iraq.fermented cereal.Jalebi
+391,Ireland.alcoholic beverage.Cider
+392,Ireland.cheese.Cashel Blue
+393,Ireland.cheese.Dilliskus
+394,Ireland.cheese.Durrus
+395,Ireland.cheese.Gubbeen
+396,Ireland.cheese.Milleens
+397,Italy.cheese.Asiago
+398,"Italy.cheese.Bros, Bross, Brus, Bruss, Bruzzo"
+399,Italy.cheese.Burrata
+400,Italy.cheese.Caciocavallo
+401,Italy.cheese.Caprino Fresco
+402,Italy.cheese.Caprino Stagionato
+403,Italy.cheese.Casu martzu
+404,Italy.cheese.Fontina Val D'Aosta
+405,Italy.cheese.Gorgonzola
+406,Italy.cheese.Grana Padano
+407,Italy.cheese.Mascarpone
+408,Italy.cheese.Montasio
+409,Italy.cheese.Mozzarella di Bufala
+410,Italy.cheese.Murazzano
+411,Italy.cheese.Pecorino Romano
+412,Italy.cheese.Pecorino Sardo
+413,Italy.cheese.Pecorino Siciliano
+414,Italy.cheese.Pecorino Toscano
+415,Italy.cheese.Provolone Valpadana
+416,Italy.cheese.Provolone del Monaco
+417,Italy.cheese.Ricotta
+418,Italy.cheese.Taleggio
+419,Italy.cheese.Tiroler Graukase
+420,Italy.cheese.Valle D'Aosta Fromadzo
+421,Italy.condiment.Balsamic Vinegar
+422,Italy.fermented cereal.Pan di Sorc
+423,Italy.fermented cereal.Pane di Laterza
+424,Italy.fermented cereal.Pane di Matera
+425,Italy.fermented fish.Colatura di alici
+426,Italy.fermented fruit.Olives
+427,"Italy.fermented meat.Capocollo, Capicola, Coppa"
+428,Italy.fermented meat.Speck
+429,Italy.wine.Amarone della Valpolicella
+430,Italy.wine.Marsala
+431,Italy.wine.Vin Santo
+432,Jamaica.fermented cereal.Kenkey
+433,"Japan.alcoholic beverage.Sake, Seishu"
+434,Japan.alcoholic beverage.Shōchū
+435,Japan.fermented cereal.Amazake
+436,Japan.fermented cereal.Hamanatto
+437,Japan.fermented cereal.Mirin
+438,Japan.fermented fish.Funazushi
+439,Japan.fermented fish.Ika no shiokara
+440,Japan.fermented fish.Katsuobushi
+441,Japan.fermented fish.Kusaya
+442,Japan.fermented fish.Narezushi
+443,Japan.fermented fish.Shottsuru
+444,Japan.fermented legumes.Miso
+445,Japan.fermented legumes.Nattō
+446,"Japan.fermented vegetables.Fermented Tea, Dark Tea"
+447,Japan.fermented vegetables.Sunki
+448,"Japan.fermented vegetables.Takuan, Takuan-zuke, Danmuji"
+449,Japan.fermented vegetables.Tsukemono
+450,"Kazakhstan.dairy product.Chal, Shuba,Khoormog"
+451,"Kazakhstan.dairy product.Kaymak, Kajmak, Kaimak, Gemagh, Geymar"
+452,Kazakhstan.dairy product.Kumis
+453,Kenya.beer.Busaa
+454,Kenya.dairy product.Maziwa lala
+455,Korea.alcoholic beverage.Ewhaju
+456,Korea.fermented cereal.Chongju
+457,Korea.fermented cereal.Kichudok
+458,Korea.fermented fish.Hongeo
+459,Korea.fermented fish.Jeotgal
+460,Korea.fermented legumes.Cheonggukjang
+461,Korea.fermented legumes.Doenjang
+462,Korea.fermented legumes.Gochujang
+463,Korea.fermented legumes.Meju
+464,Korea.fermented vegetables.Kimchi
+465,Latvia.fermented cereal.Salinata
+466,"Lebanon.dairy product.Kaymak, Kajmak, Kaimak, Gemagh, Geymar"
+467,Lichtenstein.cheese.Bloder-Sauer Kaese
+468,Lithuania.cheese.Liliputas
+469,Macedonia.fermented vegetables.Sour cabbage
+470,Malaysia.alcoholic beverage.Tapai
+471,Malaysia.fermented fruit.Tempoyak
+472,Malaysia.fermented vegetables.Acar
+473,"Mali.fermented legumes.Sumbala, Soumbala"
+474,Malta.fermented cereal.Ftira
+475,Mauritius.fermented cereal.Jalebi
+476,Mexico.alcoholic beverage.Tuba
+477,Mexico.cheese.Queso anejo
+478,Mexico.cheese.Requeson
+479,Mexico.fermented fruit.Tejate
+480,Mongolia.dairy product.Koumiss
+481,Mongolia.dairy product.Kumis
+482,"Montenegro.dairy product.Kaymak, Kajmak, Kaimak, Gemagh, Geymar"
+483,Myanmar.fermented vegetables.Anishi
+484,Myanmar.fermented vegetables.Lahpet
+485,Nepal.alcoholic beverage.Bhaati jaanr
+486,Nepal.alcoholic beverage.Chhaang
+487,"Nepal.alcoholic beverage.Chhaang, Chhyang, Lugri"
+488,Nepal.alcoholic beverage.Faapar ko jaanr
+489,"Nepal.alcoholic beverage.Gahoon ko jaanr, Gahun ko jaanr"
+490,"Nepal.alcoholic beverage.Jao ko jaanr, Jaun ko jaanr"
+491,Nepal.alcoholic beverage.Kodo ko jaanr
+492,Nepal.alcoholic beverage.Makai ko jaanr
+493,Nepal.alcoholic beverage.Raksi
+494,Nepal.alcoholic beverage.Simal tarul ko jaanr
+495,"Nepal.cheese.Chhu, Sheden"
+496,Nepal.cheese.Chhurpi
+497,Nepal.cheese.Dudh churpi
+498,Nepal.cheese.Paneer
+499,"Nepal.dairy product.Pheuja, Suja"
+500,Nepal.dairy product.Philu
+501,Nepal.fermented cereal.Jalebi
+502,Nepal.fermented cereal.Selroti
+503,Nepal.fermented legumes.Kinema
+504,Nepal.fermented meat.Arjia
+505,Nepal.fermented meat.Chartayshya
+506,Nepal.fermented meat.Chilu
+507,Nepal.fermented meat.Faak kargyong
+508,Nepal.fermented meat.Kheuri
+509,Nepal.fermented meat.Lang kargyong
+510,Nepal.fermented meat.Sukakomasu
+511,Nepal.fermented vegetables.Goyang
+512,Nepal.fermented vegetables.Khalpi
+513,Nepal.fermented vegetables.Mesu
+514,Nepal.fermented vegetables.Sinki
+515,Nepal.yogurt.Dahi
+516,Netherlands.cheese.Edam
+517,Netherlands.cheese.Gouda
+518,Netherlands.cheese.Kanterkaas
+519,Netherlands.cheese.Nagelkaas
+520,Niger.fermented meat.Kilishi
+521,Nigeria.Alcoholic beverage.Burukutu
+522,Nigeria.alcoholic beverage.Agadagidi
+523,Nigeria.alcoholic beverage.Ogogoro
+524,Nigeria.alcoholic beverage.Oti-oka
+525,Nigeria.alcoholic beverage.Tuba
+526,Nigeria.beer.Pito
+527,Nigeria.cheese.Wara
+528,Nigeria.condiment.Ofowoh
+529,Nigeria.condiment.Ogiri
+530,Nigeria.condiment.Okpehe
+531,Nigeria.condiment.Ugba
+532,Nigeria.dairy product.Nono
+533,Nigeria.fermented cereal.Fura
+534,Nigeria.fermented cereal.Koko
+535,Nigeria.fermented cereal.Kunun-zaki
+536,Nigeria.fermented cereal.Ogi
+537,Nigeria.fermented cereal.masa
+538,Nigeria.fermented legumes.Iru
+539,Nigeria.fermented meat.Kilishi
+540,Nigeria.fermented roots.Fufu
+541,Nigeria.fermented roots.Garri
+542,Nigeria.fermented roots.Lafun
+543,Nigeria.fermented roots.Yam flour
+544,Nigeria.fermented vegetables.Abacha
+545,Nigeria.yogurt.Nunu
+546,North Macedonia.cheese.Kashkaval
+547,"North Macedonia.cheese.Urdha, Urda, Vurda, Orda, Izvara, Zsendice"
+548,"North Macedonia.dairy product.Kaymak, Kajmak, Kaimak, Gemagh, Geymar"
+549,North Macedonia.fermented fish.Fesikh
+550,Norway.alcoholic beverage.Blaand
+551,Norway.cheese.Gamalost
+552,Norway.fermented fish.Rakfisk
+553,Pakistan.cheese.Paneer
+554,"Pakistan.dairy product.Kaymak, Kajmak, Kaimak, Gemagh, Geymar"
+555,Pakistan.fermented cereal.Jalebi
+556,"Pakistan.fermented cereal.Papadam, Papadum, Papad"
+557,Pakistan.yogurt.Dahi
+558,Peru.fermented fruit.Olives
+559,Peru.fermented meat.Ch'arki
+560,Peru.fermented roots.Tocosh
+561,Philippines.alcoholic beverage.Basi
+562,Philippines.alcoholic beverage.Tuba
+563,Philippines.fermented cereal.Pangasi
+564,Philippines.fermented cereal.Puto
+565,Philippines.fermented cereal.Tapuy
+566,Philippines.fermented fish.Bagoong monamon
+567,Philippines.fermented fish.Bagoong terong
+568,Philippines.fermented fish.Balao-balao
+569,Philippines.fermented fish.Burong Bangus
+570,Philippines.fermented fish.Burong isda
+571,Philippines.fermented fish.Burong talangka
+572,Philippines.fermented fish.Dayok
+573,Philippines.fermented fish.Patis
+574,Philippines.fermented fish.Tinabal
+575,Philippines.fermented fruit.Lambanog
+576,Philippines.fermented fruit.Nata de coco
+577,Philippines.fermented fruit.Nata de pina
+578,Philippines.fermented meat.Agos-os
+579,Philippines.fermented meat.Burong kalabi
+580,Philippines.fermented roots.Landang
+581,Philippines.fermented vegetables.Burong mustala (or mustasa)
+582,Poland.cheese.Bryndza
+583,Poland.dairy product.Zincica
+584,Poland.fermented cereal.Kvass
+585,Poland.fermented meat.Teewurst
+586,Portugal.cheese.Queijo Serra da Estrela
+587,Portugal.cheese.Serpa
+588,Portugal.fermented fruit.Olives
+589,Portugal.fermented meat.Alheira
+590,Portugal.wine.Madeira
+591,"Republic of Korea.fermented vegetables.Fermented Tea, Dark Tea"
+592,"Republic of Korea.fermented vegetables.Takuan, Takuan-zuke, Danmuji"
+593,"Republic of Moldova.cheese.Urdha, Urda, Vurda, Orda, Izvara, Zsendice"
+594,Romania.cheese.Bryndza
+595,Romania.cheese.Kashkaval
+596,Romania.cheese.Telemea
+597,"Romania.cheese.Urdha, Urda, Vurda, Orda, Izvara, Zsendice"
+598,Romania.fermented cereal.Bors
+599,Romania.fermented cereal.Braga
+600,Romania.fermented fish.Fesikh
+601,Russian Federation.cheese.Kashkaval
+602,Russian Federation.dairy product.Acidophiline
+603,Russian Federation.dairy product.Kefir
+604,Russian Federation.dairy product.Koumiss
+605,Russian Federation.dairy product.Ryazhenka
+606,Russian Federation.dairy product.Smetana
+607,Russian Federation.fermented cereal.Kvass
+608,Senegal.fermented fish.Guedj
+609,Serbia.cheese.Kashkaval
+610,"Serbia.cheese.Urdha, Urda, Vurda, Orda, Izvara, Zsendice"
+611,"Serbia.dairy product.Kaymak, Kajmak, Kaimak, Gemagh, Geymar"
+612,Serbia.fermented fish.Fesikh
+613,Serbia.fermented vegetables.Sour cabbage
+614,Singapore.fermented vegetables.Acar
+615,Slovakia.cheese.Bryndza
+616,Slovakia.dairy product.Zincica
+617,Slovenia.alcoholic beverage.Cider
+618,Slovenia.dairy product.Kislo mleko
+619,Somalia.fermented cereal.Injera
+620,South Africa.fermented cereal.Mahewu
+621,Spain.alcoholic beverage.Cider
+622,Spain.cheese.Idiazabal
+623,Spain.cheese.Mahon
+624,Spain.cheese.Manchego
+625,Spain.cheese.Queso Tetilla
+626,Spain.cheese.Torta del Cesar
+627,Spain.fermented fruit.Olives
+628,Spain.wine.Sherry
+629,Sri Lanka.fermented cereal.Appam
+630,Sri Lanka.fermented cereal.Idli
+631,Sri Lanka.fermented cereal.Jalebi
+632,Sri Lanka.yogurt.Dahi
+633,Sweden.cheese.Källarlagrad Getost
+634,Sweden.cheese.Svecia
+635,Sweden.cheese.Västerbotten
+636,Sweden.yogurt.Viili
+637,Switzerland.cheese.Appenzeller Käse
+638,Switzerland.cheese.Bloder-Sauer Kaese
+639,Switzerland.cheese.Emmental cheese
+640,Switzerland.cheese.Gruyère
+641,Switzerland.cheese.Schabziger
+642,Switzerland.cheese.Tilsiter
+643,Switzerland.cheese.Vacherin Fribourgeois
+644,Switzerland.cheese.Vacherin Mont-d'Or
+645,Switzerland.fermented meat.Bündnerfleisch
+646,"Syrian Arab Republic.dairy product.Kaymak, Kajmak, Kaimak, Gemagh, Geymar"
+647,Syrian Arab Republic.fermented cereal.Jalebi
+648,Thailand.fermented vegetables.Miang
+649,Togo.fermented cereal.Kenkey
+650,Togo.fermented cereal.Ogi
+651,Togo.fermented roots.Agbelima
+652,Tunisia.fermented cereal.Jalebi
+653,"Turkmenistan.dairy product.Chal, Shuba,Khoormog"
+654,Türkiye.cheese.Beyaz peynir
+655,Türkiye.cheese.Lor
+656,"Türkiye.cheese.Motal Paniri, Panire Khiki, Panire Pousti"
+657,"Türkiye.dairy product.Kaymak, Kajmak, Kaimak, Gemagh, Geymar"
+658,Türkiye.fermented cereal.Jalebi
+659,Türkiye.fermented cereal.Tandir Ekmegi
+660,UK.alcoholic beverage.Blaand
+661,UK.cheese.Caboc
+662,UK.cheese.Caerphilly
+663,UK.cheese.Cheddar
+664,UK.cheese.Crowdie
+665,UK.cheese.Stichelton
+666,UK.cheese.Stilton
+667,UK.cheese.Yarg Cornish Cheese
+668,UK.fermented cereal.Sowans
+669,"USA.fermented fish.Ciss'uq, Ciss'ur"
+670,USA.fermented fish.Faaqassaeq
+671,USA.fermented fish.Tepa
+672,USA.fermented fruit.Olives
+673,"Ukraine.cheese.Urdha, Urda, Vurda, Orda, Izvara, Zsendice"
+674,Ukraine.dairy product.Acidophiline
+675,Ukraine.dairy product.Ryazhenka
+676,Ukraine.dairy product.Smetana
+677,United States of America.cheese.Monterey Jack
+678,United States of America.fermented meat.Pepperoni
+679,United States of America.fermented vegetables.Poi
+680,Uruguay.cheese.Requeson
+681,"Uzbekistan.dairy product.Chal, Shuba,Khoormog"
+682,Zambia.fermented cereal.Chibwantu
+683,Zambia.fermented cereal.Munkoyo
+684,nan.acid beverage.Kombucha
+685,nan.alcoholic beverage.Mead
+686,nan.fermented fruit.Cacao
+687,nan.fermented fruit.Coffee
+688,nan.fermented legumes.Soy sauce
+689,nan.wine.Wine
+690,nan.yogurt.Ayran
